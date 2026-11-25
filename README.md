@@ -32,8 +32,8 @@ Gõ Việt bổ sung bảng nhớ tạm, nền Liquid Glass trên macOS 26, bi�
 
 ## Yêu cầu
 
-- Máy Mac dùng kiến trúc **x86_64**, như MacBook Pro 2019. Chưa cung cấp bản đã kiểm chứng cho Apple Silicon.
-- **macOS 26** để sử dụng Liquid Glass. Môi trường phát triển và kiểm tra là macOS 26.7.3 trên MacBook Pro 2019.
+- Máy Mac dùng kiến trúc **x86_64**, như MacBook.
+- **macOS 26** để sử dụng Liquid Glass. Môi trường phát triển và kiểm tra là macOS 26.7.3.
 - Quyền **Trợ năng / Accessibility** để xử lý bàn phím.
 
 ## Cài đặt
@@ -55,8 +55,8 @@ Biểu tượng trên thanh menu cho biết trạng thái:
 
 | Trạng thái | Biểu tượng |
 | --- | --- |
-| Bật tiếng Việt — V | Cờ đỏ sao vàng |
-| Tắt tiếng Việt — E | Khủng long |
+| Bật tiếng Việt | Cờ đỏ sao vàng |
+| Tắt tiếng Việt | Khủng long |
 
 Trong **Hệ thống**, tùy chọn **Bật chuyển động cờ và khủng long** điều khiển cả hai hiệu ứng:
 
