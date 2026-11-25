@@ -32,7 +32,6 @@ Gõ Việt bổ sung bảng nhớ tạm, nền Liquid Glass trên macOS 26, bi�
 
 ## Yêu cầu
 
-- Máy Mac dùng kiến trúc **x86_64**, như MacBook.
 - **macOS 26** để sử dụng Liquid Glass. Môi trường phát triển và kiểm tra là macOS 26.7.3.
 - Quyền **Trợ năng / Accessibility** để xử lý bàn phím.
 
